@@ -1,9 +1,0 @@
-{
-  "node": "18.17.0",
-  "packageManager": "pnpm",
-  "packageManagerVersion": "6.7.1",
-  "rushJsonFolder": "/Users/denyskorolkov/dev/routine-guide",
-  "npmrcHash": "ee68e6b827bdf7ec9525260572c6fe6f94909053",
-  "storePath": "/Users/denyskorolkov/dev/routine-guide/common/temp/pnpm-store",
-  "workspaces": true
-}
